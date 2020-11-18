@@ -198,7 +198,7 @@ VALUES
         ('Software', 'Software Development', 90000, 6, "Ruby Ninja", 97422),
         ('Professor', 'Education', 150000, 7, "EECS Professor", 1212),
         ('Assistant Professor', 'Education', 150000, 8, "Literature Professor", 1212),
-        ('Professor', 'Education', 150000, 9, "Psychology Professor", 1212);
+         ('Professor', 'Education', 150000, 9, "Psychology Professor", 1212);
     
     
     
